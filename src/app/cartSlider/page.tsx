@@ -180,7 +180,7 @@ export default function Single(){
   {/* Description Content */}
   <div className="mt-4 bg-[#D9D9D9] text-gray-600 text-sm">
     <p>
-      Embodying the raw, wayward spirit of rock 'n' roll, the Kilburn portable
+      Embodying the raw, wayward spirit of rock  roll, the Kilburn portable
       active stereo speaker takes the unmistakable look and sound of Marshall,
       unplugs the chords, and takes the show on the road.
     </p>

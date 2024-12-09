@@ -1,7 +1,7 @@
 import Features from "../component/features";
 import Image from "next/image";
 
-export default function Cart() {
+exort default function Cart() {
   return (
     <>
       <div
@@ -57,7 +57,7 @@ export default function Cart() {
                   />
                   <span className="text-gray-800">Asgaard sofa</span>
                 </td>
-                <td className="p-4 text-gray-700">Rs. 250,000.00</td>
+                <td className="p-4 text-gray-700">Rs 250 00 000</td>
                 <td className="p-4">
                   <input
                     type="number"
@@ -65,7 +65,7 @@ export default function Cart() {
                     className="w-12 border rounded text-center text-gray-700"
                   />
                 </td>
-                <td className="p-4 text-gray-700">Rs. 250,000.00</td>
+                <td className="p-4 text-gray-700">Rs 250 000 00</td>
                 <td className="p-4 text-red-500">
                   <button>
                     <span className="material-icons">delete</span>
@@ -81,11 +81,11 @@ export default function Cart() {
             <h2 className="text-xl font-bold text-gray-800 mb-4">Cart Totals</h2>
             <div className="flex justify-between text-gray-700 mb-2">
               <span>Subtotal</span>
-              <span>Rs. 250,000.00</span>
+              <span>Rs  250 000 00</span>
             </div>
             <div className="flex justify-between text-gray-800 font-bold mb-4">
               <span>Total</span>
-              <span>Rs. 250,000.00</span>
+              <span>Rs  250 000 00</span>
             </div>
             <button className="w-full bg-black text-white py-2 rounded">
               Check Out
