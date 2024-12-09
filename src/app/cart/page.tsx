@@ -1,7 +1,7 @@
 import Features from "../component/features";
 import Image from "next/image";
 
-exort default function Cart() {
+export default function Cart() {
   return (
     <>
       <div
